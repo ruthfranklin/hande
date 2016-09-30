@@ -49,5 +49,4 @@ script:
     - $HOME/testcode/bin/testcode.py -c vquick -v
 
 notifications:
-    email:
-        - hande-dev@imperial.ac.uk
+    email: false
